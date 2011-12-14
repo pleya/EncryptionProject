@@ -15,6 +15,7 @@ public class EncryptionProject {
 		String str = "int1 = %06d";
 		System.out.println("str = " + str);
 		System.out.printf(String.format("int1 = %s0%dd", "%",int2), int1 );
+		System.out.printf(String.format("int1 = %s0%dd", "%",int2), int1 );
 
 	}
 
